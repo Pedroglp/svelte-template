@@ -1,6 +1,5 @@
 module.exports = {
-  parser: 'sugarss',
   plugins: {
-    'postcss-sass': {},
+    '@csstools/postcss-sass': {},
   },
 };

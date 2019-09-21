@@ -3,9 +3,11 @@
 	
 </script>
 
-<style lang="text/postcss">
+<style type="text/postcss">
+	$test: purple;	
+	
 	h1 {
-		color: purple;
+		color: $test;
 	}
 </style>
 

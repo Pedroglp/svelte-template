@@ -23,6 +23,6 @@ module.exports = {
     "import/no-mutable-exports": 0,
   },
   settings: {
-    // ...
+    "svelte3/ignore-styles"
   }
 };
